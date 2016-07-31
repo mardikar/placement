@@ -14,7 +14,7 @@ $result = (mysql_query("select * from experience order by pid desc limit 3"));
 		<meta name="description" content="">
 		<meta name="author" content="">
 
-		<title>VJTI Blog</title>
+		<title>VJTI Placement Blog</title>
 
 		<!-- Bootstrap Core CSS -->
 		<link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
